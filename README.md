@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @you97ssef
+- 👋 Hi, I’m youssef @you97ssef
 - 👀 I’m interested in Web developpement
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Projects
 - 📫 reach out to me in youssefb.netlify.app/contact
 
