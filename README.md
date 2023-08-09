@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Youssef Bahi
+- 👋 Hi, I’m Youssef
 - 🌱 I’m currently a fullstack web developper at @Fluigent
 - 📫 reach out to me in [https://bahi.ovh/#contact](https://bahi.ovh/#contact)
 
